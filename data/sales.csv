@@ -1,0 +1,5 @@
+sale_id,product_id,store_id,sale_date,quantity
+SA001,P001,S001,2024-04-01,3
+SA002,P002,S001,2024-04-01,1
+SA003,P003,S002,2024-04-02,2
+SA004,P004,S003,2024-04-02,5
